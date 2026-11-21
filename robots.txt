@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zcoldwater.github.io/first-dollar-report/sitemap.xml
